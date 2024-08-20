@@ -13,6 +13,7 @@ Xin chào RUNNERs :) RUN 4 FUN
 
 
 Strava: https://strava.app.link/aP8CuSzlXFb
+
 Zalo: https://zalo.me/g/koebdp802
 
 ![](https://external.fsgn5-15.fna.fbcdn.net/emg1/v/t13/16827841211157243015?url=https%3A%2F%2Fqr.zalo.me%2Fsl%2F2%2F9c3806352564cf3a9675&fb_obo=1&utld=zalo.me&stp=c0.5000x0.5000f_dst-jpg_flffffff_p486x253_q75&_nc_eui2=AeEsSsw-LZBhs4MRsAomO90BLiPgzg9TCN0uI-DOD1MI3e_DnkrQPDeITHmJKTxD1RHdjtSzYaCNrCq6ofPH5rQu&ccb=13-1&oh=06_Q399Pa91z6SADOBL_VmX3fcnvADF8YV94qxf462f6bAoKQw&oe=66C5B756&_nc_sid=c2d28d)
@@ -23,6 +24,9 @@ Zalo: https://zalo.me/g/koebdp802
 - [Một số động tác khởi động trước khi chạy](guide/guide_01.md)
 - [Kinh nghiệm tập 42km](guide/guide_02.md)
 - [Chạy xà lơ](guide/guide_03.md)
+- [Mục tiêu trong chạy bộ](guide/guide_04.md)
+- [Tự lên giáo án chạy bộ](guide/guide_05.md)
+- [Hiểu về giấc ngủ](guide/guide_06.md)
 
 **Kinh Nghiệm & Chăm Sóc Sức Khỏe Khi Chạy**
 
