@@ -1,4 +1,4 @@
-### Mục tiêu trong chạy bộ
+# Mục tiêu trong chạy bộ
 
 Trước mềnh có share 1 bài "mục tiêu trong chạy bộ cho người mới" - chủ yếu liên quan đến cự ly và thời gian - nay rảnh tám thêm 1 tẹo về phạm trù mục tiêu rộng hơn trong chạy bộ
 
@@ -68,7 +68,7 @@ Việc lường trước các rủi ro do sự xáo trộn về đời sống m�
 
 4. Kiên trì thay đổi, mong ngày lột xác :d
 
-
+---
 Nguồn: Anh Hang Xom
 
 #mizukirunners #run4fun

@@ -1,4 +1,4 @@
-### KINH NGHIỆM TẬP 42km
+# KINH NGHIỆM TẬP 42km
 
 Hello cả nhà!
 
@@ -47,6 +47,7 @@ Thương chúc ACE tập luyện và đạt kết quả tốt, có gì đó sau 
 
 Sub 3h30 nó lại là 1 câu chuyện khác và dài tập, hẹn ACE sau khi mọi người chinh phục xong sub 4, mình chia sẻ tiếp nha, giờ mình cũng đi "hồi phục" sau bài chia sẻ trên đây, hehe.
 
+---
 Nguồn: Kim Kiều Trần
 
 #mizukirunners #run4fun

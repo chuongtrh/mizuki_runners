@@ -1,4 +1,4 @@
-### TỰ LÊN GIÁO ÁN CHẠY BỘ
+# TỰ LÊN GIÁO ÁN CHẠY BỘ
 
 Hi mấy fen, dạo này có nhiều bạn sau một thời gian fun run thì sức khỏe đã tốt hơn, trong đầu tự nhen nhóm mục tiêu đen tối kiểu FM sub4 đồ và có tham khảo mềnh về giáo án luyện tập
 
@@ -106,6 +106,7 @@ Vầng, plan là thía mà đời thường không như là thía 😃. Đặc t
 - Chạy fun-run cũng cần chạy theo đúng nhịp tim và giáo án, còn cự ly, pace và bỏ bài thì thoải mái - NHÉ!
 OK, các bạn ngay lúc này đã có thể bắt đầu tự lên giáo án và gởi mình tham khảo để điều chỉnh nếu thích, nhé! Gét gô!
 
+---
 Nguồn: Anh Hang Xom
 
 #mizukirunners #run4fun

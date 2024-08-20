@@ -1,4 +1,4 @@
-### Hiểu về giấc ngủ
+# Hiểu về giấc ngủ
 
 Nhân cơ hội một bạn trong gúp bị khó nhủ, mềnh share ít thứ giúp mí bạn điều chỉnh sinh hoạt để nhủ nhon hơn hé
 
@@ -98,6 +98,8 @@ Ok, một giấc ngủ được đánh giá là chất lượng khi đáp ứng 
 - Cảm thấy sảng khoái và sảng khoái khi thức dậy: Sau một giấc ngủ chất lượng, bạn cảm thấy tỉnh táo, tươi mới và sảng khoái, sẵn sàng bắt đầu một ngày mới mà không cảm thấy mệt mỏi hay buồn ngủ trở lại
 - Không gặp vấn đề về giấc ngủ: Giấc ngủ chất lượng không có các vấn đề như chóng mặt khi thức dậy, thao thức vào ban đêm khó ngủ lại
 - Đáp ứng nhu cầu cá nhân: Mỗi người có nhu cầu giấc ngủ khác nhau. Giấc ngủ chất lượng là giấc ngủ đủ đáp ứng nhu cầu cá nhân về thời lượng và chất lượng, giúp cơ thể và tâm trí duy trì hoạt động tốt. Có thể ngủ sớm hay ngủ trễ tùy nhu cầu và nhịp sinh học riêng.
+
+---
 
 Nguồn: Anh Hang Xom
 

@@ -1,0 +1,12 @@
+# SỨC MẠNH CỦA NGƯỜI CHẠY KHỎE CÓ TỪ SỨC KHỎE CƠ BẮP
+
+SỨC MẠNH CỦA NGƯỜI CHẠY KHỎE CÓ TỪ SỨC KHỎE CƠ BẮP nghe đúng quá. Nhưng …
+
+Nếu bạn muốn chạy tốt, sức khỏe cơ bắp là một trong những yếu tố quan trọng. Tập luyện để tăng cơ bắp và sức mạnh có thể giúp bạn chạy nhanh hơn và kéo dài hơn. Các bài tập sức mạnh dùng đa khớp cho phép bạn nâng tổng trọng lượng tạ nhiều hơn, chẳng hạn như dùng ghế tập cơ ngực, máy tập cơ delta, tạ đòn cho lưng và bài tập ngồi xổm cho chân. Ngoài ra, việc ăn uống đúng cách cũng rất quan trọng. Bạn cần phải ăn nhiều hơn, sử dụng chiến lược tập luyện đúng đắn, và dùng các bài tập hướng đến việc làm cho cơ bắp bạn to hơn. Nếu bạn muốn giảm cơ bắp để trông cơ thể đẹp hơn, hãy tập trung vào việc tập luyện cardio và ăn uống đúng cách.
+
+Nhưng khi tập luyện đúng hướng, tốc độ và cự ly tăng dần đều lên, thì có những chỉ số sau đây tăng theo (tốt lên thêm). Đó là hô hấp và tim mạch. Nói đơn giản thế này, khi bạn chạy dài và nhanh hơn, bạn sẽ thấy cùng cự ly và tốc độ đó, so với ngày đầu bạn chạy rất khó khăn vì thở rất nhanh và hụt cả hơi, tim đập nhanh trống ngực thình thịch. Như vậy sức khỏe tim mạch & hô hấp của bạn cũng tốt lên hẳn, thậm chí, cơ bắp ở chân chưa to chắc ra mà bạn đã thấy tim phổi khỏe hơn trước rồi. Chuyện tim phổi đó được giải thích qua công thức tính này: VO2max = (15 x Nhịp tim tối đa / Nhịp tim nghỉ ngơi). Chỉ số VO2max là một chỉ số đo lường khả năng tiêu thụ oxy tối đa của cơ thể trong khi tập luyện. Mỗi năm chỉ số VO2 max có thể giảm 1%, thậm chí giảm nhiều hơn nếu bạn béo phì hoặc mắc bệnh về tim mạch, hô hấp mạn tính … tuy nhiên nếu tích cực rèn luyện một cách khoa học, bạn có thể nâng chỉ số thêm 10 đến 15% trong vòng từ 4 đến 12 tuần. Việc tăng chỉ số VO2 max đồng nghĩa với tăng dung tích phổi, tăng độ bền và hiệu quả vận động. Lúc đó, khi chạy nhanh hơn mà nhịp tim tăng lên nhưng không cần cao như trước cũng đủ cung cấp oxy cho cơ thể, tiết kiệm được khả năng gắng sức nhiều hơn. Bạn sẽ hít thở tốt hơn, ít mệt hơn và có thể tăng dần độ khó của các bài tập. Những vận động viên chuyên nghiệp luôn có rất nhiều bài tập để tăng sức bền và từ đó cải thiện được thành tích thi đấu.
+
+Như vậy với việc rèn luyện đúng cách, sức khỏe cơ bắp và sức khỏe tim mạch – hô hấp sẽ giúp bạn chạy nhanh hơn, dài hơn nghĩa là ngày càng tốt hơn.
+
+---
+#mizuki #chaybo #mizukirunners #runner
