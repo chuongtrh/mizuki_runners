@@ -58,9 +58,9 @@ Bài viết giúp cho chạy bộ tốt hơn, có tính chất chia sẻ từ ki
 **Kiến thức dinh dưỡng**
 
 **Chạy sao cho đẹp**
-- [Chạy sao cho đẹp - Phần 1] (guide/guide6_01.md)
-- [Chạy sao cho đẹp - Phần 2] (guide/guide6_02.md)
-- [Chạy sao cho đẹp - Phần 3] (guide/guide6_03.md)
+- [Chạy sao cho đẹp - Phần 1](guide/guide6_01.md)
+- [Chạy sao cho đẹp - Phần 2](guide/guide6_02.md)
+- [Chạy sao cho đẹp - Phần 3](guide/guide6_03.md)
 
 **Đồng hồ chạy bộ**
 - [Đồng hồ Coros](guide/guide7_01.md)
