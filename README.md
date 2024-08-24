@@ -18,14 +18,14 @@ Xin chào RUNNERs :) **RUN 4 FUN**
 
 **Zalo**: [https://zalo.me/g/koebdp802](https://zalo.me/g/koebdp802)
 
-![](https://external.fsgn5-15.fna.fbcdn.net/emg1/v/t13/16827841211157243015?url=https%3A%2F%2Fqr.zalo.me%2Fsl%2F2%2F9c3806352564cf3a9675&fb_obo=1&utld=zalo.me&stp=c0.5000x0.5000f_dst-jpg_flffffff_p486x253_q75&_nc_eui2=AeEsSsw-LZBhs4MRsAomO90BLiPgzg9TCN0uI-DOD1MI3e_DnkrQPDeITHmJKTxD1RHdjtSzYaCNrCq6ofPH5rQu&ccb=13-1&oh=06_Q399Pa91z6SADOBL_VmX3fcnvADF8YV94qxf462f6bAoKQw&oe=66C5B756&_nc_sid=c2d28d)
+![](/pictures/16827841211157243015.jpeg)
 
 
 ### Tổng hợp các bài viết trong nhóm [FB Mizuki Runners](https://www.facebook.com/groups/mizukirunners/learning_content)
 
 Bài viết giúp cho chạy bộ tốt hơn, có tính chất chia sẻ từ kinh nghiệm bản thân hoặc từ các bài đọc khác. Mọi vấn đề liên quan đến sức khỏe, đặc biệt là chăm sóc y tế hoặc điều trị ... đều phải từ chuyên gia y tế và bác sĩ điều trị trực tiếp của bạn. 
 
-*Chúng tôi từ chối mọi trách nhiệm cho các vấn đề y tế mà bạn cho là ảnh hưởng từ các bài viết này.*
+***Chúng tôi từ chối mọi trách nhiệm cho các vấn đề y tế mà bạn cho là ảnh hưởng từ các bài viết này.***
 
 **01. Kỹ thuật chạy bộ**
 - [Một số động tác khởi động trước khi chạy](guide/guide1_01.md)
